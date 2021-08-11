@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">IntentsProj</string>
+    <string name="tv_num1">Number 1</string>
+    <string name="tv_num2">Number 2</string>
+    <string name="btn_ok">OK</string>
+    <string name="te_num1" />
+    <string name="et_num2" />
+    <string name="tv_n1">Number 1</string>
+    <string name="tv_n2">Number 2</string>
+    <string name="btn_add">+</string>
+    <string name="btn_sub">-</string>
+    <string name="btn_mul">*</string>
+    <string name="btn_div">/</string>
+    <string name="et_n2" />
+    <string name="et_n1" />
+</resources>
